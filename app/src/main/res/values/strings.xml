@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IBM Interview 2</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_produt_list">Product List</string>
+    <string name="title_activity_detail_product">Detail Product Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="format_label_item_list">Item %2$s : $/%1$s (%1$s)</string>
+    <string name="item_title_label">Item : </string>
+    <string name="item_price_label">Price : </string>
+    <string name="item_description_label">Description : </string>
+
+</resources>
